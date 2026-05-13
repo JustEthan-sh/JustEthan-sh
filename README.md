@@ -46,5 +46,5 @@ From web apps, to silly python scripts, I really make what ever comes to mind. T
 
 
 ## What else do I do?
-I don't just code here! I am a solo developer at [Eura Industries](https://github.com/Eura-Industries), you should come check it out! I also do Minecraft content on Youtube [here](https://youtube.com/@JustEthanYay), with Vanilla-ish in full swing. 
+I don't just code here! I also do Minecraft content on Youtube [here](https://youtube.com/@JustEthanYay), with Vanilla-ish in full swing. Plus, I have a brand new blog over at eura.dev.
 
